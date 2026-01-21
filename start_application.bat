@@ -16,7 +16,7 @@ if exist venv\Scripts\activate.bat (
 
 echo Starting Flask server...
 echo.
-echo Dashboard will be available at: http://127.0.0.1:5000
+echo Dashboard will be available at: :http//127.0.0.1:5000
 echo.
 echo Press CTRL+C to stop the server
 echo.
